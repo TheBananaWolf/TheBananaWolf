@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 I’m a first-year ECE Master's student at **University of Waterloo**, Canada, and received my CS Bachelor's degree from Dalhousie University, Canada. Currently, I am open to **SDE/SWE Co-op position** starting from **May 2024**. I hope to be a **Full-stack Developer** in the future.
 
 - 🤔 I'm looking for 2024 Software Developer Coop
-- :seedling: I’m learning ![badge_open-shift] & ![badge_docker] & ![badge_react].
+- :seedling: I’m learning![badge_kubernetes] & ![badge_typescript] & ![badge_react].
 - 📫 Feel free to reach me by: t73wang@uwaterloo.ca
 
 ### :microscope: Tech && Tools Preference
